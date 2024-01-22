@@ -8,7 +8,7 @@ I am a front-end developer, interested in web development and eager to learn the
 
 * 🌍  I'm based in Beirut, Lebanon
 * ✉️  You can contact me at [husseinabouzeinab@gmail.com](mailto:husseinabouzeinab@gmail.com)
-* 🧠  I'm learning Vue js
+* 🧠  I'm learning React js
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
