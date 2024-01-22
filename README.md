@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------------
 
-I am a front-end developer, interested in web development and eager to learn the latest in this realm. Technology has always been my passion. I take full advantage opportunities that give me the ability to leverage my skills and knowledge in Software development, problem solving and working independently to always find different pathways to practical solutions.
+I am a web developer, interested in web development and eager to learn the latest in this realm. Technology has always been my passion. I take full advantage opportunities that give me the ability to leverage my skills and knowledge in Software development, problem solving and working independently to always find different pathways to practical solutions.
 
 * 🌍  I'm based in Beirut, Lebanon
 * ✉️  You can contact me at [husseinabouzeinab@gmail.com](mailto:husseinabouzeinab@gmail.com)
