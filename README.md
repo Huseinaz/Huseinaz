@@ -8,7 +8,7 @@ I am a web developer, interested in web development and eager to learn the lates
 
 * 🌍  I'm based in Beirut, Lebanon
 * ✉️  You can contact me at [husseinabouzeinab@gmail.com](mailto:husseinabouzeinab@gmail.com)
-* 🧠  I'm learning React js
+* 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
